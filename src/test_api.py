@@ -2,6 +2,8 @@
 import requests
 import pandas as pd
  
+# This script is modified from Monte Lunacek's: https://gist.github.com/mlunacek/6302618
+
 # IMPORTANT NOTE to get an API key, go to this website: http://co.opencampaigndata.org/keys/new
 # Then place your key here instead of 'None'
 API_KEY = '3KDOKC5XE46VALX'
